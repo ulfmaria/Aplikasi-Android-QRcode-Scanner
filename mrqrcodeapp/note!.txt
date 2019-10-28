@@ -1,0 +1,24 @@
+- Folder QRCodeScanner 	: (Android)
+- Folder webqrcodescan 	: (WEB)
+- DB 			: qrcodescan.sql
+
+1. PHP Version 5.6.33
+2. Apache/2.4.29 (Win32) OpenSSL/1.0.2n -- Jenis server: MariaDB
+3. Android marshmallow 6.0 (API 23)
+4. Software : Android Studio and Sublime
+
+the qr code must match the field created.
+
+link to create qrcode : http://goqr.me/
+
+script qr code generator:
+{"nomor":"998776A","nama":"adidas denim","jenis":jaket}
+
+nomor = field (number)
+nama  = field (name)
+jenis = field (type)
+
+Kind regards..
+
+
+
